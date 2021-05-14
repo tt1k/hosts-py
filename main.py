@@ -1,6 +1,7 @@
 import pandas as pd
 import requests
 from datetime import datetime
+from os import error
 
 github_url = [
   'github.githubassets.com',
@@ -66,8 +67,8 @@ def findIPWrapper(host:str):
     except:
         try:
             result = findIP(host)
-        except:
-            print("[error]: {} is failed", host)
+        except error as e:
+            print("[error]: {} is failed, {}", host, e)
     return result
 
 def main():
