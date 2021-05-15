@@ -1,7 +1,7 @@
 # hosts-py
 hosts-py is a python version of [hosts-js](https://github.com/IcedOtaku/hosts-js)
 ## hosts
-update at: 2021-05-14 16:05:28
+update at: 2021-05-15 00:05:28
 ```shell
 185.199.108.154               github.githubassets.com
 140.82.113.21                 central.github.com
@@ -12,7 +12,7 @@ update at: 2021-05-14 16:05:28
 199.232.69.194                github.global.ssl.fastly.net
 140.82.114.3                  gist.github.com
 185.199.108.153               github.io
-140.82.113.4                  github.com
+140.82.113.3                  github.com
 140.82.113.6                  api.github.com
 185.199.108.133               raw.githubusercontent.com
 185.199.108.133               user-images.githubusercontent.com
